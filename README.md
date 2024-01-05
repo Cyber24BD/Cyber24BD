@@ -6,10 +6,10 @@ I am a simple programmer.
 
 Meet Abid Shariar Sakib, a passionate programmer from Bangladesh. Sakib loves solving coding puzzles, especially in Python and web development using Django. He's a fan of adventure and detective books, sharing his space with a cat. Dreaming big, Sakib recently achieved a milestone by getting his own computer. In the next year, he plans to create 1000 free website templates and 10 modern full-stack websites, sharing them on GitHub. Sakib's motto: "Coding turns imagination into reality." Join him on his coding journey!
 
- 🌍  I'm based in Bangladesh
- ✉️  You can contact me at [abidsakib@skiff.com](mailto:abidsakib@skiff.com)
- 🚀  I'm currently working on [Web development projects](http://github.com/Cyber24BD/Frontend-Development-2024)
- 🧠  I'm learning Artificial Intelligence
+ 🌍  I'm based in Bangladesh <br>
+ ✉️  You can contact me at [abidsakib@skiff.com](mailto:abidsakib@skiff.com) <br>
+ 🚀  I'm currently working on [Web development projects](http://github.com/Cyber24BD/Frontend-Development-2024) <br>
+ 🧠  I'm learning Artificial Intelligence <br>
 
 ### Skills
 
