@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌍  I'm based in Bangladesh <br> ✉️  You can contact me at [Mail](mailto:abidsakib@skiff.com) <br> 🚀  I'm currently working on [Web development projects](http://github.com/Cyber24BD/Frontend-Development-2024)<br> 🧠  I'm learning Artificial Intelligence</p>
+<p align="left">🌍  I'm based in Bangladesh <br> ✉️  You can contact me at [Mail](mailto:abidsakib@skiff.com) <br> 🚀  I'm currently working on <a href="http://github.com/Cyber24BD/Frontend-Development-2024">Web development projects</a><br> 🧠  I'm learning Artificial Intelligence</p>
 
 ###
 
