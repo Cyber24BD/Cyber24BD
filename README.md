@@ -126,10 +126,6 @@
 <br clear="both">
 <h2 align="left">🔄 GitHub Stats :</h2>
 
-###
-
-#
-
 <br clear="both">
 
 <div align="center">
