@@ -119,10 +119,10 @@
 ###
 
 <a href="https://youtu.be/ITAn9Sapg5Y">
-<img align="left" height="170" src="https://i9.ytimg.com/vi/ITAn9Sapg5Y/sddefault.jpg?v=65890966&sqp=COTf46wG&rs=AOn4CLDGt9IigkaNKEK-qbZl873GveK7Yw" /></a>
+<img align="left" height="170" src="https://i9.ytimg.com/vi/ITAn9Sapg5Y/sddefault.jpg?v=65890966&sqp=COTf46wG&rs=AOn4CLDGt9IigkaNKEK-qbZl873GveK7Yw" /></a> <br>
 
    <p align="center">
-      <a href="https://www.youtube.com/c/@Cyber24BD?sub_confirmation=1">
+      <a href="https://www.youtube.com/@Cyber24BD?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
    </p>
 
