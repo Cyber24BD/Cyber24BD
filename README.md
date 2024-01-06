@@ -108,7 +108,7 @@
 ###
 
 <a href="https://youtu.be/fNvCMikld4U">
-<img align="left" height="150" src="https://i9.ytimg.com/vi/fNvCMikld4U/maxresdefault.jpg?v=6594341d&sqp=CLjd46wG&rs=AOn4CLClpAZI_7LNju_5hlGLk8GCfMhg8Q" /> </a> <br>
+<img align="left" height="150" src="https://i9.ytimg.com/vi/fNvCMikld4U/maxresdefault.jpg?v=6594341d&sqp=CLjd46wG&rs=AOn4CLClpAZI_7LNju_5hlGLk8GCfMhg8Q" /> </a>
 
 ###
 
