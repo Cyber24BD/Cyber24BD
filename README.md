@@ -112,10 +112,10 @@
 
 ###
 
-<div align="center">
+
 <a href="https://youtu.be/WYXPnqrPnCQ">
-<img height="150" src="https://i9.ytimg.com/vi/WYXPnqrPnCQ/maxresdefault.jpg?v=658f9a96&sqp=CLjd46wG&rs=AOn4CLA5dJer0SDcwEm7gCbrmHiundq-cA" /></a>
-</div>
+<img align="left" height="150" src="https://i9.ytimg.com/vi/WYXPnqrPnCQ/maxresdefault.jpg?v=658f9a96&sqp=CLjd46wG&rs=AOn4CLA5dJer0SDcwEm7gCbrmHiundq-cA" /></a>
+
 
 
 
