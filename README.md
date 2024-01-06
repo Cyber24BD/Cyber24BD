@@ -16,6 +16,13 @@
 🚀  I'm currently working on <a href="http://github.com/Cyber24BD/Frontend-Development-2024">Web development projects</a><br> 
 🧠  I'm learning Artificial Intelligence</p>
 
+<br clear="both">
+
+   <p align="center">
+      <a href="https://www.youtube.com/@Cyber24BD?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC20ZjIfmQrkKWaTKJf0hPvw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
+   </p>
+
 ---
 
 <h2 align="left">📖 My Skills :</h2>
@@ -100,7 +107,7 @@
 </a>
 </div>
 
-###
+---
 
 ###
 <h2 align="left">▶️ Our Videos:</h2>
@@ -122,10 +129,6 @@
 <img align="left" height="170" src="https://i9.ytimg.com/vi/ITAn9Sapg5Y/sddefault.jpg?v=65890966&sqp=COTf46wG&rs=AOn4CLDGt9IigkaNKEK-qbZl873GveK7Yw" /></a> 
 <br clear="both">
 
-   <p align="center">
-      <a href="https://www.youtube.com/@Cyber24BD?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
-   </p>
 
 ###
 
