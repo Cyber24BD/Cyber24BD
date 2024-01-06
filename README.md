@@ -20,12 +20,18 @@
 
 <h2 align="left">📖 My Skills :</h2>
 
+###
+
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo" />
+<img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="40" alt="adobepremierepro logo" />
 </div>
 
 ###
@@ -92,13 +98,28 @@
 <a href="https://t.me/cyber03bd" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
 </a>
-<a href="abidsakib@skiff.com" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-</a>
 </div>
 
 ###
 
+
+
+<a href="https://youtu.be/fNvCMikld4U">
+<img align="left" height="200" src="https://i9.ytimg.com/vi/fNvCMikld4U/maxresdefault.jpg?v=6594341d&sqp=CLjd46wG&rs=AOn4CLClpAZI_7LNju_5hlGLk8GCfMhg8Q" /> </a>
+
+###
+
+<div align="center">
+<a href="https://youtu.be/WYXPnqrPnCQ">
+<img height="200" src="https://i9.ytimg.com/vi/WYXPnqrPnCQ/maxresdefault.jpg?v=658f9a96&sqp=CLjd46wG&rs=AOn4CLA5dJer0SDcwEm7gCbrmHiundq-cA" /></a>
+</div>
+
+
+
+
+
+
+###
 <h2 align="left">🔄 GitHub Stats :</h2>
 
 ###
@@ -106,9 +127,9 @@
 <br clear="both">
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cyber24BD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
-<img src="https://github-readme-stats.vercel.app/api?username=Cyber24BD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1&custom_title=Cyber24BD%20GitHub%20Stats%20" height="150" alt="stats graph" /> <br>
-<img src="https://streak-stats.demolab.com?user=Cyber24BD&locale=en&mode=weekly&theme=vue-dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+<img src="https://github-readme-stats.vercel.app/api?username=Cyber24BD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1&custom_title=Cyber24BD%20GitHub%20Stats%20" height="200" alt="stats graph" /> <br>
+<img src="https://streak-stats.demolab.com?user=Cyber24BD&locale=en&mode=weekly&theme=vue-dark&hide_border=true&border_radius=5&order=3" height="191" alt="streak graph" /> <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cyber24BD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=vue-dark&hide_border=true&order=2" height="175" alt="languages graph" /> <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyber24BD&radius=16&theme=vue&area=true&order=5&custom_title=Cyber24BD%20Activity%20&hide_border=true" height="300" alt="activity-graph graph" />
 </div>
 
