@@ -6,11 +6,15 @@
 
 ###
 
-<p align="left">Coding is fun. If you want to enjoy your life, then stat learn coding. Coding can change reality and make you happy. I am Abid Shariar Sakib, founder of Cyber24BD and Toamun. Cyber24BD is a coding learning [YouTube video](https://www.youtube.com/@cyber24bd) sharing educational platform. You can learn all kind of programming and design by visiting [Cyber24BD](https://www.youtube.com/@cyber24bd).</p>
+<p align="left">Coding is fun. If you want to enjoy your life, then stat learn coding. Coding can change reality and make you happy. I am <b color="green">Abid Shariar Sakib</b>, founder of Cyber24BD and Toamun. Cyber24BD is a coding learning <a href="https://www.youtube.com/@cyber24bd">YouTube video</a> sharing <b>educational</b> platform. You can learn all kind of programming and design by visiting <a href="https://www.youtube.com/@cyber24bd">Cyber24BD</a>.</p>
 
 ###
 
-<p align="left">🌍  I'm based in Bangladesh <br> ✉️  You can contact me at [Mail](mailto:abidsakib@skiff.com) <br> 🚀  I'm currently working on <a href="http://github.com/Cyber24BD/Frontend-Development-2024">Web development projects</a><br> 🧠  I'm learning Artificial Intelligence</p>
+<p align="left">
+🌍  I'm based in Bangladesh <br> 
+✉️  You can contact me at <a href="mailto:abidsakib@skiff.com">Mail</a> <br> 
+🚀  I'm currently working on <a href="http://github.com/Cyber24BD/Frontend-Development-2024">Web development projects</a><br> 
+🧠  I'm learning Artificial Intelligence</p>
 
 ###
 
