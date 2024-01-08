@@ -115,18 +115,18 @@
 ###
 
 <a href="https://youtu.be/fNvCMikld4U">
-<img align="left" height="150" src="https://gsac.ac.bd/cimages/pandas.jpg" /> </a> <br>
+<img align="left" height="150" src="https://gsac.ac.bd/cimages/frontend%20Development%20%2813%29.png" /> </a>
 
 ###
 
 
 <a href="https://youtu.be/WYXPnqrPnCQ">
-<img align="left" height="150" src="https://gsac.ac.bd/cimages/pandas.jpg" /></a> <br>
+<img align="left" height="150" src="https://gsac.ac.bd/cimages/pandas.jpg" /></a>
 
 ###
 
 <a href="https://youtu.be/ITAn9Sapg5Y">
-<img align="left" height="170" src="https://gsac.ac.bd/cimages/Python.png" /></a> 
+<img align="left" height="150" src="https://gsac.ac.bd/cimages/Python.png" /></a> 
 <br clear="both">
 
 
